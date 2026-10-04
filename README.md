@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Samuel Udodong
 
-**Builder · Hacker · Tinkerer**
+**Builder · Tinkerer**
 
 I turn ideas into working software — from real-time dashboards and encrypted vaults to Discord bots and AI-powered tools. I thrive on shipping fast, learning constantly, and making things that are genuinely useful.
 
